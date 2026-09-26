@@ -1,4 +1,4 @@
-# Project: C++ Card Game [Lab 1]
+# Project: C++ PokerPal Card Game [Lab 1]
 # Course: CSC-3420-1
 # Date: 9/24/2026
 
