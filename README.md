@@ -24,6 +24,6 @@ Using C++ to create a card game, focus on Array2D and enum.
 Compile and run the program using a C++ compiler:
 
 ```bash
-g++ main.cpp CardGame.cpp -o CardGame
+g++ *.cpp -o CardGame
 ./CardGame
 ```
