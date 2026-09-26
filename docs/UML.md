@@ -1,5 +1,5 @@
 ```mermaid
-
+classDiagram
     class CardGame {
         -Suit deckSuit[4][13]
         -Rank deckRank[4][13]
